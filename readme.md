@@ -36,3 +36,4 @@ Special thanks to Kraig Grady for publishing the scala file and for his input wi
 
 
 
+![color codes](color-codes.png)
