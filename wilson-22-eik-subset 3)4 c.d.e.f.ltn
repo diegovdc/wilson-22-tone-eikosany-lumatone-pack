@@ -9,7 +9,7 @@ Col_1=111111
 CCInvert_1
 Key_2=21
 Chan_2=1
-Col_2=4ea590
+Col_2=111111
 CCInvert_2
 Key_3=25
 Chan_3=1
@@ -25,7 +25,7 @@ Col_5=111111
 CCInvert_5
 Key_6=37
 Chan_6=1
-Col_6=74688f
+Col_6=111111
 CCInvert_6
 Key_7=18
 Chan_7=1
@@ -33,7 +33,7 @@ Col_7=111111
 CCInvert_7
 Key_8=22
 Chan_8=1
-Col_8=111111
+Col_8=7a9985
 CCInvert_8
 Key_9=26
 Chan_9=1
@@ -45,7 +45,7 @@ Col_10=111111
 CCInvert_10
 Key_11=34
 Chan_11=1
-Col_11=111111
+Col_11=4ea590
 CCInvert_11
 Key_12=38
 Chan_12=1
@@ -57,7 +57,7 @@ Col_13=111111
 CCInvert_13
 Key_14=23
 Chan_14=1
-Col_14=6c6edb
+Col_14=111111
 CCInvert_14
 Key_15=27
 Chan_15=1
@@ -65,7 +65,7 @@ Col_15=111111
 CCInvert_15
 Key_16=31
 Chan_16=1
-Col_16=7a9985
+Col_16=111111
 CCInvert_16
 Key_17=35
 Chan_17=1
@@ -89,7 +89,7 @@ Col_21=111111
 CCInvert_21
 Key_22=28
 Chan_22=1
-Col_22=111111
+Col_22=74688f
 CCInvert_22
 Key_23=32
 Chan_23=1
@@ -97,7 +97,7 @@ Col_23=111111
 CCInvert_23
 Key_24=36
 Chan_24=1
-Col_24=111111
+Col_24=6c6edb
 CCInvert_24
 Key_25=17
 Chan_25=1
@@ -105,7 +105,7 @@ Col_25=111111
 CCInvert_25
 Key_26=21
 Chan_26=1
-Col_26=4ea590
+Col_26=111111
 CCInvert_26
 Key_27=25
 Chan_27=1
@@ -121,11 +121,11 @@ Col_29=111111
 CCInvert_29
 Key_30=37
 Chan_30=1
-Col_30=74688f
+Col_30=111111
 CCInvert_30
 Key_31=14
 Chan_31=1
-Col_31=111111
+Col_31=6c6edb
 CCInvert_31
 Key_32=18
 Chan_32=1
@@ -133,7 +133,7 @@ Col_32=111111
 CCInvert_32
 Key_33=22
 Chan_33=1
-Col_33=111111
+Col_33=7a9985
 CCInvert_33
 Key_34=26
 Chan_34=1
@@ -145,11 +145,11 @@ Col_35=111111
 CCInvert_35
 Key_36=34
 Chan_36=1
-Col_36=111111
+Col_36=4ea590
 CCInvert_36
 Key_37=15
 Chan_37=1
-Col_37=74688f
+Col_37=111111
 CCInvert_37
 Key_38=19
 Chan_38=1
@@ -157,7 +157,7 @@ Col_38=111111
 CCInvert_38
 Key_39=23
 Chan_39=1
-Col_39=6c6edb
+Col_39=111111
 CCInvert_39
 Key_40=27
 Chan_40=1
@@ -165,7 +165,7 @@ Col_40=111111
 CCInvert_40
 Key_41=31
 Chan_41=1
-Col_41=7a9985
+Col_41=111111
 CCInvert_41
 Key_42=35
 Chan_42=1
@@ -173,7 +173,7 @@ Col_42=111111
 CCInvert_42
 Key_43=12
 Chan_43=1
-Col_43=111111
+Col_43=4ea590
 CCInvert_43
 Key_44=16
 Chan_44=1
@@ -189,7 +189,7 @@ Col_46=111111
 CCInvert_46
 Key_47=28
 Chan_47=1
-Col_47=111111
+Col_47=74688f
 CCInvert_47
 Key_48=32
 Chan_48=1
@@ -201,7 +201,7 @@ Col_49=111111
 CCInvert_49
 Key_50=21
 Chan_50=1
-Col_50=4ea590
+Col_50=111111
 CCInvert_50
 Key_51=25
 Chan_51=1
@@ -234,7 +234,7 @@ Col_1=111111
 CCInvert_1
 Key_2=43
 Chan_2=1
-Col_2=4ea590
+Col_2=111111
 CCInvert_2
 Key_3=47
 Chan_3=1
@@ -250,7 +250,7 @@ Col_5=111111
 CCInvert_5
 Key_6=59
 Chan_6=1
-Col_6=74688f
+Col_6=111111
 CCInvert_6
 Key_7=40
 Chan_7=1
@@ -258,7 +258,7 @@ Col_7=111111
 CCInvert_7
 Key_8=44
 Chan_8=1
-Col_8=111111
+Col_8=7a9985
 CCInvert_8
 Key_9=48
 Chan_9=1
@@ -270,7 +270,7 @@ Col_10=111111
 CCInvert_10
 Key_11=56
 Chan_11=1
-Col_11=111111
+Col_11=4ea590
 CCInvert_11
 Key_12=60
 Chan_12=1
@@ -282,7 +282,7 @@ Col_13=111111
 CCInvert_13
 Key_14=45
 Chan_14=1
-Col_14=6c6edb
+Col_14=111111
 CCInvert_14
 Key_15=49
 Chan_15=1
@@ -290,7 +290,7 @@ Col_15=111111
 CCInvert_15
 Key_16=53
 Chan_16=1
-Col_16=7a9985
+Col_16=111111
 CCInvert_16
 Key_17=57
 Chan_17=1
@@ -314,7 +314,7 @@ Col_21=111111
 CCInvert_21
 Key_22=50
 Chan_22=1
-Col_22=111111
+Col_22=74688f
 CCInvert_22
 Key_23=54
 Chan_23=1
@@ -322,7 +322,7 @@ Col_23=111111
 CCInvert_23
 Key_24=58
 Chan_24=1
-Col_24=111111
+Col_24=6c6edb
 CCInvert_24
 Key_25=39
 Chan_25=1
@@ -330,7 +330,7 @@ Col_25=111111
 CCInvert_25
 Key_26=43
 Chan_26=1
-Col_26=4ea590
+Col_26=111111
 CCInvert_26
 Key_27=47
 Chan_27=1
@@ -346,11 +346,11 @@ Col_29=111111
 CCInvert_29
 Key_30=59
 Chan_30=1
-Col_30=74688f
+Col_30=111111
 CCInvert_30
 Key_31=36
 Chan_31=1
-Col_31=111111
+Col_31=6c6edb
 CCInvert_31
 Key_32=40
 Chan_32=1
@@ -358,7 +358,7 @@ Col_32=111111
 CCInvert_32
 Key_33=44
 Chan_33=1
-Col_33=111111
+Col_33=7a9985
 CCInvert_33
 Key_34=48
 Chan_34=1
@@ -370,11 +370,11 @@ Col_35=111111
 CCInvert_35
 Key_36=56
 Chan_36=1
-Col_36=111111
+Col_36=4ea590
 CCInvert_36
 Key_37=37
 Chan_37=1
-Col_37=74688f
+Col_37=111111
 CCInvert_37
 Key_38=41
 Chan_38=1
@@ -382,7 +382,7 @@ Col_38=111111
 CCInvert_38
 Key_39=45
 Chan_39=1
-Col_39=6c6edb
+Col_39=111111
 CCInvert_39
 Key_40=49
 Chan_40=1
@@ -390,7 +390,7 @@ Col_40=111111
 CCInvert_40
 Key_41=53
 Chan_41=1
-Col_41=7a9985
+Col_41=111111
 CCInvert_41
 Key_42=57
 Chan_42=1
@@ -398,7 +398,7 @@ Col_42=111111
 CCInvert_42
 Key_43=34
 Chan_43=1
-Col_43=111111
+Col_43=4ea590
 CCInvert_43
 Key_44=38
 Chan_44=1
@@ -414,7 +414,7 @@ Col_46=111111
 CCInvert_46
 Key_47=50
 Chan_47=1
-Col_47=111111
+Col_47=74688f
 CCInvert_47
 Key_48=54
 Chan_48=1
@@ -426,7 +426,7 @@ Col_49=111111
 CCInvert_49
 Key_50=43
 Chan_50=1
-Col_50=4ea590
+Col_50=111111
 CCInvert_50
 Key_51=47
 Chan_51=1
@@ -459,7 +459,7 @@ Col_1=111111
 CCInvert_1
 Key_2=65
 Chan_2=1
-Col_2=4ea590
+Col_2=111111
 CCInvert_2
 Key_3=69
 Chan_3=1
@@ -475,7 +475,7 @@ Col_5=111111
 CCInvert_5
 Key_6=81
 Chan_6=1
-Col_6=74688f
+Col_6=111111
 CCInvert_6
 Key_7=62
 Chan_7=1
@@ -483,7 +483,7 @@ Col_7=111111
 CCInvert_7
 Key_8=66
 Chan_8=1
-Col_8=111111
+Col_8=7a9985
 CCInvert_8
 Key_9=70
 Chan_9=1
@@ -495,7 +495,7 @@ Col_10=111111
 CCInvert_10
 Key_11=78
 Chan_11=1
-Col_11=111111
+Col_11=4ea590
 CCInvert_11
 Key_12=82
 Chan_12=1
@@ -507,7 +507,7 @@ Col_13=111111
 CCInvert_13
 Key_14=67
 Chan_14=1
-Col_14=6c6edb
+Col_14=111111
 CCInvert_14
 Key_15=71
 Chan_15=1
@@ -515,7 +515,7 @@ Col_15=111111
 CCInvert_15
 Key_16=75
 Chan_16=1
-Col_16=7a9985
+Col_16=111111
 CCInvert_16
 Key_17=79
 Chan_17=1
@@ -539,7 +539,7 @@ Col_21=111111
 CCInvert_21
 Key_22=72
 Chan_22=1
-Col_22=111111
+Col_22=74688f
 CCInvert_22
 Key_23=76
 Chan_23=1
@@ -547,7 +547,7 @@ Col_23=111111
 CCInvert_23
 Key_24=80
 Chan_24=1
-Col_24=111111
+Col_24=6c6edb
 CCInvert_24
 Key_25=61
 Chan_25=1
@@ -555,7 +555,7 @@ Col_25=111111
 CCInvert_25
 Key_26=65
 Chan_26=1
-Col_26=4ea590
+Col_26=111111
 CCInvert_26
 Key_27=69
 Chan_27=1
@@ -571,11 +571,11 @@ Col_29=111111
 CCInvert_29
 Key_30=81
 Chan_30=1
-Col_30=74688f
+Col_30=111111
 CCInvert_30
 Key_31=58
 Chan_31=1
-Col_31=111111
+Col_31=6c6edb
 CCInvert_31
 Key_32=62
 Chan_32=1
@@ -583,7 +583,7 @@ Col_32=111111
 CCInvert_32
 Key_33=66
 Chan_33=1
-Col_33=111111
+Col_33=7a9985
 CCInvert_33
 Key_34=70
 Chan_34=1
@@ -595,11 +595,11 @@ Col_35=111111
 CCInvert_35
 Key_36=78
 Chan_36=1
-Col_36=111111
+Col_36=4ea590
 CCInvert_36
 Key_37=59
 Chan_37=1
-Col_37=74688f
+Col_37=111111
 CCInvert_37
 Key_38=63
 Chan_38=1
@@ -607,7 +607,7 @@ Col_38=111111
 CCInvert_38
 Key_39=67
 Chan_39=1
-Col_39=6c6edb
+Col_39=111111
 CCInvert_39
 Key_40=71
 Chan_40=1
@@ -615,7 +615,7 @@ Col_40=111111
 CCInvert_40
 Key_41=75
 Chan_41=1
-Col_41=7a9985
+Col_41=111111
 CCInvert_41
 Key_42=79
 Chan_42=1
@@ -623,7 +623,7 @@ Col_42=111111
 CCInvert_42
 Key_43=56
 Chan_43=1
-Col_43=111111
+Col_43=4ea590
 CCInvert_43
 Key_44=60
 Chan_44=1
@@ -639,7 +639,7 @@ Col_46=111111
 CCInvert_46
 Key_47=72
 Chan_47=1
-Col_47=111111
+Col_47=74688f
 CCInvert_47
 Key_48=76
 Chan_48=1
@@ -651,7 +651,7 @@ Col_49=111111
 CCInvert_49
 Key_50=65
 Chan_50=1
-Col_50=4ea590
+Col_50=111111
 CCInvert_50
 Key_51=69
 Chan_51=1
@@ -684,7 +684,7 @@ Col_1=111111
 CCInvert_1
 Key_2=87
 Chan_2=1
-Col_2=4ea590
+Col_2=111111
 CCInvert_2
 Key_3=91
 Chan_3=1
@@ -700,7 +700,7 @@ Col_5=111111
 CCInvert_5
 Key_6=103
 Chan_6=1
-Col_6=74688f
+Col_6=111111
 CCInvert_6
 Key_7=84
 Chan_7=1
@@ -708,7 +708,7 @@ Col_7=111111
 CCInvert_7
 Key_8=88
 Chan_8=1
-Col_8=111111
+Col_8=7a9985
 CCInvert_8
 Key_9=92
 Chan_9=1
@@ -720,7 +720,7 @@ Col_10=111111
 CCInvert_10
 Key_11=100
 Chan_11=1
-Col_11=111111
+Col_11=4ea590
 CCInvert_11
 Key_12=104
 Chan_12=1
@@ -732,7 +732,7 @@ Col_13=111111
 CCInvert_13
 Key_14=89
 Chan_14=1
-Col_14=6c6edb
+Col_14=111111
 CCInvert_14
 Key_15=93
 Chan_15=1
@@ -740,7 +740,7 @@ Col_15=111111
 CCInvert_15
 Key_16=97
 Chan_16=1
-Col_16=7a9985
+Col_16=111111
 CCInvert_16
 Key_17=101
 Chan_17=1
@@ -764,7 +764,7 @@ Col_21=111111
 CCInvert_21
 Key_22=94
 Chan_22=1
-Col_22=111111
+Col_22=74688f
 CCInvert_22
 Key_23=98
 Chan_23=1
@@ -772,7 +772,7 @@ Col_23=111111
 CCInvert_23
 Key_24=102
 Chan_24=1
-Col_24=111111
+Col_24=6c6edb
 CCInvert_24
 Key_25=83
 Chan_25=1
@@ -780,7 +780,7 @@ Col_25=111111
 CCInvert_25
 Key_26=87
 Chan_26=1
-Col_26=4ea590
+Col_26=111111
 CCInvert_26
 Key_27=91
 Chan_27=1
@@ -796,11 +796,11 @@ Col_29=111111
 CCInvert_29
 Key_30=103
 Chan_30=1
-Col_30=74688f
+Col_30=111111
 CCInvert_30
 Key_31=80
 Chan_31=1
-Col_31=111111
+Col_31=6c6edb
 CCInvert_31
 Key_32=84
 Chan_32=1
@@ -808,7 +808,7 @@ Col_32=111111
 CCInvert_32
 Key_33=88
 Chan_33=1
-Col_33=111111
+Col_33=7a9985
 CCInvert_33
 Key_34=92
 Chan_34=1
@@ -820,11 +820,11 @@ Col_35=111111
 CCInvert_35
 Key_36=100
 Chan_36=1
-Col_36=111111
+Col_36=4ea590
 CCInvert_36
 Key_37=81
 Chan_37=1
-Col_37=74688f
+Col_37=111111
 CCInvert_37
 Key_38=85
 Chan_38=1
@@ -832,7 +832,7 @@ Col_38=111111
 CCInvert_38
 Key_39=89
 Chan_39=1
-Col_39=6c6edb
+Col_39=111111
 CCInvert_39
 Key_40=93
 Chan_40=1
@@ -840,7 +840,7 @@ Col_40=111111
 CCInvert_40
 Key_41=97
 Chan_41=1
-Col_41=7a9985
+Col_41=111111
 CCInvert_41
 Key_42=101
 Chan_42=1
@@ -848,7 +848,7 @@ Col_42=111111
 CCInvert_42
 Key_43=78
 Chan_43=1
-Col_43=111111
+Col_43=4ea590
 CCInvert_43
 Key_44=82
 Chan_44=1
@@ -864,7 +864,7 @@ Col_46=111111
 CCInvert_46
 Key_47=94
 Chan_47=1
-Col_47=111111
+Col_47=74688f
 CCInvert_47
 Key_48=98
 Chan_48=1
@@ -876,7 +876,7 @@ Col_49=111111
 CCInvert_49
 Key_50=87
 Chan_50=1
-Col_50=4ea590
+Col_50=111111
 CCInvert_50
 Key_51=91
 Chan_51=1
@@ -909,7 +909,7 @@ Col_1=111111
 CCInvert_1
 Key_2=109
 Chan_2=1
-Col_2=4ea590
+Col_2=111111
 CCInvert_2
 Key_3=113
 Chan_3=1
@@ -925,7 +925,7 @@ Col_5=111111
 CCInvert_5
 Key_6=125
 Chan_6=1
-Col_6=74688f
+Col_6=111111
 CCInvert_6
 Key_7=106
 Chan_7=1
@@ -933,7 +933,7 @@ Col_7=111111
 CCInvert_7
 Key_8=110
 Chan_8=1
-Col_8=111111
+Col_8=7a9985
 CCInvert_8
 Key_9=114
 Chan_9=1
@@ -945,7 +945,7 @@ Col_10=111111
 CCInvert_10
 Key_11=122
 Chan_11=1
-Col_11=111111
+Col_11=4ea590
 CCInvert_11
 Key_12=126
 Chan_12=1
@@ -957,7 +957,7 @@ Col_13=111111
 CCInvert_13
 Key_14=111
 Chan_14=1
-Col_14=6c6edb
+Col_14=111111
 CCInvert_14
 Key_15=115
 Chan_15=1
@@ -965,7 +965,7 @@ Col_15=111111
 CCInvert_15
 Key_16=119
 Chan_16=1
-Col_16=7a9985
+Col_16=111111
 CCInvert_16
 Key_17=123
 Chan_17=1
@@ -989,7 +989,7 @@ Col_21=111111
 CCInvert_21
 Key_22=116
 Chan_22=1
-Col_22=111111
+Col_22=74688f
 CCInvert_22
 Key_23=120
 Chan_23=1
@@ -997,7 +997,7 @@ Col_23=111111
 CCInvert_23
 Key_24=124
 Chan_24=1
-Col_24=111111
+Col_24=6c6edb
 CCInvert_24
 Key_25=105
 Chan_25=1
@@ -1005,7 +1005,7 @@ Col_25=111111
 CCInvert_25
 Key_26=109
 Chan_26=1
-Col_26=4ea590
+Col_26=111111
 CCInvert_26
 Key_27=113
 Chan_27=1
@@ -1021,11 +1021,11 @@ Col_29=111111
 CCInvert_29
 Key_30=125
 Chan_30=1
-Col_30=74688f
+Col_30=111111
 CCInvert_30
 Key_31=102
 Chan_31=1
-Col_31=111111
+Col_31=6c6edb
 CCInvert_31
 Key_32=106
 Chan_32=1
@@ -1033,7 +1033,7 @@ Col_32=111111
 CCInvert_32
 Key_33=110
 Chan_33=1
-Col_33=111111
+Col_33=7a9985
 CCInvert_33
 Key_34=114
 Chan_34=1
@@ -1045,11 +1045,11 @@ Col_35=111111
 CCInvert_35
 Key_36=122
 Chan_36=1
-Col_36=111111
+Col_36=4ea590
 CCInvert_36
 Key_37=103
 Chan_37=1
-Col_37=74688f
+Col_37=111111
 CCInvert_37
 Key_38=107
 Chan_38=1
@@ -1057,7 +1057,7 @@ Col_38=111111
 CCInvert_38
 Key_39=111
 Chan_39=1
-Col_39=6c6edb
+Col_39=111111
 CCInvert_39
 Key_40=115
 Chan_40=1
@@ -1065,7 +1065,7 @@ Col_40=111111
 CCInvert_40
 Key_41=119
 Chan_41=1
-Col_41=7a9985
+Col_41=111111
 CCInvert_41
 Key_42=123
 Chan_42=1
@@ -1073,7 +1073,7 @@ Col_42=111111
 CCInvert_42
 Key_43=100
 Chan_43=1
-Col_43=111111
+Col_43=4ea590
 CCInvert_43
 Key_44=104
 Chan_44=1
@@ -1089,7 +1089,7 @@ Col_46=111111
 CCInvert_46
 Key_47=116
 Chan_47=1
-Col_47=111111
+Col_47=74688f
 CCInvert_47
 Key_48=120
 Chan_48=1
@@ -1101,7 +1101,7 @@ Col_49=111111
 CCInvert_49
 Key_50=109
 Chan_50=1
-Col_50=4ea590
+Col_50=111111
 CCInvert_50
 Key_51=113
 Chan_51=1
